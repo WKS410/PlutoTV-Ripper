@@ -6,8 +6,6 @@ The script includes an invitation to the Sasuke-Duck server, I may deactivate it
 >
 > I don't plan to update this at all, I'm only uploading this for educational, and archival purposes.
 
-This is the original version of the script that a few others are based on.
-
 ## setup
 
 usage: main.pyc
