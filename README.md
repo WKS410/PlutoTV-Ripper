@@ -26,7 +26,6 @@ mkvmerge.exe
 
 - python main.pyc
   - This is just a random test I did
-![image](https://cdn.discordapp.com/attachments/709596699781496902/1083569718000095282/image.png)
 ![image](https://cdn.discordapp.com/attachments/709596699781496902/1083571503741800558/image.png)
 ![image](https://cdn.discordapp.com/attachments/709596699781496902/1083571575825104936/image.png)
   
