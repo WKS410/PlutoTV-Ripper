@@ -1,3 +1,5 @@
+### You must use Python version 3.7.9.
+
 # PlutoTV-Ripper
 Download LIVE and VOD of PlutoTV
 The script includes an invitation to the Sasuke-Duck server, I may deactivate it after a while.
